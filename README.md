@@ -1,5 +1,7 @@
 # Dat Project Website
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/datproject/datproject.org.svg)](https://greenkeeper.io/)
+
 Code for [datproject.org](http://datproject.org) website.
 
 #### Built With
