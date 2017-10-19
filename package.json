@@ -23,11 +23,11 @@
     "bankai": "^8.1.1",
     "dependency-check": "^2.9.1",
     "fair-analytics": "^1.2.1",
-    "standard": "^7.1.2"
+    "standard": "^10.0.3"
   },
   "dependencies": {
     "choo": "^6.0.0",
-    "choo-log": "^7.2.1",
+    "choo-log": "^8.0.0",
     "compression": "^1.7.0",
     "dat-colors": "^3.4.0",
     "dat-icons": "^2.5.0",
